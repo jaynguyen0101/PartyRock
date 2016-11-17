@@ -1,2 +1,2 @@
 # PartyRock
-# Build an application with TableView, segues, able to run youtube videos.
+# Build an ios application with TableView, segues, able to run youtube videos.
